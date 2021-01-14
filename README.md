@@ -39,5 +39,5 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=egg&color=black&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=egg&color=black&height=150&section=footer&text=DCD&fontSize=50&animation=blinking&fontColor=FFFFFF)
 
