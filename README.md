@@ -1,7 +1,7 @@
-### Hi , I'm Deniz Can 👋
+### Hi , I'm Deniz Can  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">
 ### I'm Computer Engineer and Developer. :robot: 
-[![ddeniz1947's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ddeniz1947)](https://github.com/ddeniz1947/github-readme-stats)
-
+[![ddeniz1947's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ddeniz1947)]
+![ddeniz1947's github stats](https://github-readme-stats.vercel.app/api?username=ddeniz1947&show_icons=true&theme=radical)
 <!--
 **ddeniz1947/ddeniz1947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
