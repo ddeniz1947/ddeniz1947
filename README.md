@@ -1,7 +1,9 @@
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=black&height=100&section=header&fontSize=90)
 ### Hi , I'm Deniz Can  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">
 ### I'm Computer Engineer and Developer. :robot: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddeniz1947)](https://github.com/anuraghazra/github-readme-stats)
-![ddeniz1947's github stats](https://github-readme-stats.vercel.app/api?username=ddeniz1947&show_icons=true&bg_color=#000000)
+![ddeniz1947's github stats](https://github-readme-stats.vercel.app/api?username=ddeniz1947&show_icons=true&bg_color=#0366D6&title_color=0366D6)
 <!--
 **ddeniz1947/ddeniz1947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![footer](https://capsule-render.vercel.app/api?type=slice&color=black&height=100&section=footer&fontSize=90)
