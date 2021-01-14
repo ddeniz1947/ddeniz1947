@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi , I'm Deniz Can 👋
+### I'm Computer Engineer and Developer. :robot: 
+[![ddeniz1947's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ddeniz1947)](https://github.com/ddeniz1947/github-readme-stats)
 
 <!--
 **ddeniz1947/ddeniz1947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
