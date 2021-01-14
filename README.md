@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=000000&bg_color=FFFFFF&height=150&section=header&text=DCD&fontSize=50&animation=blinking&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=egg&color=000000&height=150&section=header&text=DCD&fontSize=50&animation=blinking&fontColor=FFFFFF)
 ### Hi , I'm Deniz Can  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">
 ### I'm Computer Engineer and Developer. :robot: 
 ### <a style="text-decoration:none;" href="https://www.linkedin.com/in/denizcandinc/"> <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
